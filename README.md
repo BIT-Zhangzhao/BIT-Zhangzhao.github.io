@@ -2,7 +2,7 @@
 
 **BIT-Zhangzhao/BIT-Zhangzhao** is my ✨_personal homepage_✨.
 
-[Website]: (https://bit-zhangzhao.github.io/)
+[Website]: https://bit-zhangzhao.github.io/
 
 - 🌱 Biography ...
 - 🔭 Research Interests ...
